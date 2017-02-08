@@ -1,0 +1,13 @@
+Package: com.amrielsimone.test
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AmrielSimone <amriel@amriel.com>
+Filename: /Test.deb
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: Tweaks
+Description: Test
+Author: AmrielSimone <amriel@amriel.com>
+Name: Test
