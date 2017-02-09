@@ -1,13 +1,10 @@
-Package: com.amrielsimone.test
-Version: 0.0.1
+Package: com.amrielsimone.aroma
+Version: 1.0
+Section: Themes
+Maintainer: Amriel Simone <amriel@amriel.com>
+Depends: anemone
 Architecture: iphoneos-arm
-Maintainer: AmrielSimone <amriel@amriel.com>
-Filename: /Test.deb
-Size: <deb in bytes>
-MD5sum: <md5 hash of deb>
-SHA1: <sha1 hash of deb>
-SHA256: <sha256 of deb>
-Section: Tweaks
-Description: Test
-Author: AmrielSimone <amriel@amriel.com>
-Name: Test
+Filename: .//pkgfiles/com.amrielsimone.aroma_1.0.deb
+Description: Clean and simple theme.
+Name: Aroma
+Author: Amriel Simone <amriel@amriel.com>
