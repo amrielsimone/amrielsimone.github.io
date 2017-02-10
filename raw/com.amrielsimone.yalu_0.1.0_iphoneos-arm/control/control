@@ -1,0 +1,10 @@
+Package: com.amrielsimone.yalu
+Name: YaluTime
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Shows expiration date in Yalu102 app when opened... Full rewrite, now hopefully will have less false (or no) false readings.
+Maintainer: Amriel Simone <amriel@amriel.com>
+Author: Skyler Kansala
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 136
