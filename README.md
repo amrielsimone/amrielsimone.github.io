@@ -1,7 +1,10 @@
-<html><head>
-        <link rel="stylesheet" type="text/css" href="menes.css">
-        <link rel="stylesheet" type="text/css" href="style.css">
-        <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <title>Amriel Repo</title>
+        <link rel="stylesheet" type="text/css" href="menes.css"/>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
     </head>
     <body class="pinstripe">
         <panel>
@@ -14,7 +17,7 @@
                         <li>Tap <strong>Sources</strong></li>
                         <li>Tap the <strong>Edit</strong> button</li>
                         <li>Tap the <strong>Add</strong> button</li>
-                        <li>Type: <strong>amrielsimone.github.io</strong></li>
+                        <li>Type: <strong>Repo.amriel.com</strong></li>
                         <li>Tap <strong>Add Source</strong></li>
                     </ol>
                 </div>
@@ -23,13 +26,12 @@
         <panel>
             <label> </label>
             <fieldset>
-                <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://amrielsimone.github.io/">
+                <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://repo.amriel.com/“>
                     <div>
                         <label>Launch Cydia &amp; Add</label>
                     </div>
                 </a>
             </fieldset>
         </panel>
-    
-
-</body></html>
+    </body>
+</html>
