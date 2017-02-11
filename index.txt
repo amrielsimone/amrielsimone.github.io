@@ -15,7 +15,7 @@
                         <li>Tap <strong>Sources</strong></li>
                         <li>Tap the <strong>Edit</strong> button</li>
                         <li>Tap the <strong>Add</strong> button</li>
-                        <li>Type: <strong>amrielsimone.github.io</strong></li>
+                        <li>Type: <strong>repo.amriel.com</strong></li>
                         <li>Tap <strong>Add Source</strong></li>
                     </ol>
                 </div>
@@ -24,7 +24,7 @@
         <panel>
             <label> </label>
             <fieldset>
-                <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://amrielsimone.github.io/">
+                <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://repo.amriel.com/“>
                     <div>
                         <label>Launch Cydia &amp; Add</label>
                     </div>
