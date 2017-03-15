@@ -1,0 +1,15 @@
+Package: com.amrielsimone.aroma
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Amriel Simone <amriel@amriel.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.amrielsimone.aroma_1.0_iphoneos-arm.deb
+Size: 483572
+MD5sum: ab9818e6b093f624829f69902f5794ae
+SHA1: 2fbf08a3ab7e0a6ed74e5279ec9bd2d7b5d505ac
+SHA256: 3914a741eb15b88363e471d60633150758348fa91eb9b8b48bd568b8fbe96feb
+Section: Themes
+Description: Clean and simple theme. (Must have Anemone installed)
+Author: Amriel Simone <amriel@amriel.com>
+Name: Aroma
+
