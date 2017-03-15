@@ -5,18 +5,6 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Filename: debs/com.amrielsimone.aroma_1.0_iphoneos-arm.deb
-Description: Clean and simple theme. Must have Anemone or WinterBoard installed.
+Description: Clean and simple theme. (Must have Anemone installed)
 Name: Aroma
 Author: Amriel Simone <amriel@amriel.com>
-
-Package: com.amrielsimone.yalu
-Version: 0.1.0
-Section: Tweaks
-Maintainer: Amriel Simone <amriel@amriel.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.amrielsimone.yalu_0.1.0_iphoneos-arm.deb
-Installed-Size: 136
-Description: Shows expiration date in Yalu102 app when opened... Full rewrite, now hopefully will have less false (or no) false readings.
-Name: YaluTime
-Author: Skyler Kansala
