@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aroma_1.0_iphoneos-arm.deb
-Size: 486908
-MD5sum: 1232c8527b2660d763ff1c93f7005380
-SHA1: 58e4172ee73118d4c499ccf4268360aacbd215b6
-SHA256: 442da4ac24598b15d593318eb6abfaf0467eaf8faff4b72bff2851a27b87c86d
+Size: 486902
+MD5sum: 4fe1309e810d7b480ce8e993fe1f3060
+SHA1: 82d4a374c5d69167951ae0f62a0a80b08bd7a300
+SHA256: 44fee67ccbd8d7c27614d8f96b71c8ebb9ac75a41af21ce401fbbb38a1c5a747
 Section: Themes
 Description: Clean and simple theme. (Must have Anemone installed)
 Author: Amriel Simone <amriel@amriel.com>
