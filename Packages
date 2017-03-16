@@ -1,0 +1,30 @@
+Package: com.amrielsimone.aroma
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Amriel Simone <amriel@amriel.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.amrielsimone.aroma_1.0_iphoneos-arm.deb
+Size: 16892
+MD5sum: df80eedafcf149c3ac8b032d55b04f1a
+SHA1: 319505b80c2b3b153c3b7f750ff84159b5169583
+SHA256: 18d32eef21333f5e418b754a665b9e15b554d532b0e7afa5edaaac115f956dc7
+Section: Themes
+Description: Clean and subtle theme
+Author: Amriel Simone <amriel@amriel.com>
+Name: Aroma
+
+Package: com.amrielsimone.yalu
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Amriel Simone <amriel@amriel.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.amrielsimone.yalu_1.0_iphoneos-arm.deb
+Size: 9224
+MD5sum: 41c5b9c13ce81b0737c9de136d1334d4
+SHA1: b4da4ccbdfa67394fe761f20da94ffa95eb93d36
+SHA256: 3de648ae431d1ad1cac689359bfbd3ead069a443d8b79cc1330816b3b65809b5
+Section: Tweaks
+Description: Shows expiration date in Yalu102 app when opened
+Author: Skyler Kansala
+Name: YaluTime
+
