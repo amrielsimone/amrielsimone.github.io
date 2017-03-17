@@ -5,9 +5,9 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aroma_1.0_iphoneos-arm.deb
 Size: 31312
-MD5sum: b51302efa77970c9e6ae08f3d9141a5e
-SHA1: 891186c4918cf0aaa3191e98d6ea9cb9dfccc1ec
-SHA256: 5d92a75e43c303408ab64f6feb0a2bfbba59ca238af57b7cc63417d01cae791e
+MD5sum: a2be15431f57c9050b786eb6613309f3
+SHA1: 33f92237a75d8af4f337078a92f3d5cdf4dafaa9
+SHA256: 09f9e3f298cf72f4e1f8d02bb653ac869edac0e759914aaeac4f4af4ec6cfd08
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
@@ -19,10 +19,10 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aromatwo_1.0_iphoneos-arm.deb
-Size: 21732
-MD5sum: c4c5bd747ec63fc22b16747eaf06d1c1
-SHA1: 270e40ed488d8a5de9bea6b26554356b99fd6276
-SHA256: b3eb275cfd6f8b41aaf3b3b14748fe6f1e7626991e9b3fecc8edc5a46b69d956
+Size: 21490
+MD5sum: 0812c2ce01d8a01f39f47f619b5379e5
+SHA1: 8fdf4520c7cfc820a0ae4d2168d51c83d4af5165
+SHA256: 0274568db483da1710c6bfb895eab47a7e5dea649a7459f97297c46d2ed6d758
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
@@ -35,9 +35,9 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.amrielsimone.yalu_1.0_iphoneos-arm.deb
 Size: 8658
-MD5sum: 7587bf63776244114c64de9fb3e81168
-SHA1: 27a83bd46390c61e9627334522a3a942a22b3ecd
-SHA256: 3a217b9f6c4f1c7e8a469cb9aa489248e7deef2c204a712dfb62bea639ca4708
+MD5sum: 78c3ed5573058cd6bab4f48e30c8b8fc
+SHA1: 2d53fd0638e8863dd38360dae4aacf68b1dee3b3
+SHA256: 8aaba85573cffb4fd6009f9362353633e0522c6de034d6ef38e4962ce99def7a
 Section: Tweaks
 Description: Shows expiration date in Yalu102 app when opened
 Author: Skyler Kansala
