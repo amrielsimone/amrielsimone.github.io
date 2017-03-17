@@ -4,14 +4,29 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aroma_1.0_iphoneos-arm.deb
-Size: 16892
-MD5sum: df80eedafcf149c3ac8b032d55b04f1a
-SHA1: 319505b80c2b3b153c3b7f750ff84159b5169583
-SHA256: 18d32eef21333f5e418b754a665b9e15b554d532b0e7afa5edaaac115f956dc7
+Size: 31338
+MD5sum: f4507fda45e6655b657ea2a1c5fa3dcc
+SHA1: 406653f3dd335720669f8117bd55ba2b9115eb99
+SHA256: 60ad5d687bc42e1ddb576efcb6500a6c09abb62e3176a97a1a8d15455daee835
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
 Name: Aroma
+
+Package: com.amrielsimone.aromatwo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Amriel Simone <amriel@amriel.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.amrielsimone.aromatwo_1.0_iphoneos-arm.deb
+Size: 21742
+MD5sum: 332f600a827eca296a7139e203962fcf
+SHA1: e8e9f1aed37ac5e21a902d96484f4d18bd00854a
+SHA256: 8e992796eecb2a19f7a71561042d1b3139584d37602c88a8dc81d6aa0988c831
+Section: Themes
+Description: Clean and subtle theme
+Author: Amriel Simone <amriel@amriel.com>
+Name: Aroma 2
 
 Package: com.amrielsimone.yalu
 Version: 1.0
@@ -19,10 +34,10 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.amrielsimone.yalu_1.0_iphoneos-arm.deb
-Size: 9224
-MD5sum: 41c5b9c13ce81b0737c9de136d1334d4
-SHA1: b4da4ccbdfa67394fe761f20da94ffa95eb93d36
-SHA256: 3de648ae431d1ad1cac689359bfbd3ead069a443d8b79cc1330816b3b65809b5
+Size: 8658
+MD5sum: 737d087ceba9c9564e8f8cd5f61b43d1
+SHA1: a87f68687d71dfa30748a237528820d2c704a9dd
+SHA256: de18547912bede4731c93c8974f2fdba418a83ce9a75e48f409e9b447e689331
 Section: Tweaks
 Description: Shows expiration date in Yalu102 app when opened
 Author: Skyler Kansala

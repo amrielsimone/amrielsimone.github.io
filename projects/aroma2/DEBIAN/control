@@ -1,0 +1,9 @@
+Package: com.amrielsimone.aromatwo
+Name: Aroma 2
+Version: 1.0
+Section: Themes
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Description: Clean and subtle theme
+Author: Amriel Simone <amriel@amriel.com>
+Maintainer: Amriel Simone <amriel@amriel.com>
