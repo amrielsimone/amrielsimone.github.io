@@ -5,9 +5,9 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aroma_1.0_iphoneos-arm.deb
 Size: 31328
-MD5sum: a937c09e4a2235bea0e3da0b1655d381
-SHA1: da84142ea6a6b367ccd81ea91cc06f6869e6f9dc
-SHA256: 7742db8f9d366cec23d3b98299586b6390b7d78245320882227792b4f3684a34
+MD5sum: a3f4bd9a059344087efb1bf2a31f1681
+SHA1: 3105f3980295ac646c5ca2a91583e9cc2150df76
+SHA256: f9ba540402b63c2a41e15fedaeaa2a93a3c638f669e1cc1043044d3fa9021eda
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
@@ -20,9 +20,9 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aromatwo_1.0_iphoneos-arm.deb
 Size: 21490
-MD5sum: 0c010c823f3bebd5701d4e480a47ecd9
-SHA1: a84c9b4b02198d05855e99b5c58ef8cd2736c364
-SHA256: 9130fb74b59166351f26b8ca756f64760000915d9c49623ff636b083b51b8ce1
+MD5sum: 1c34b53d2ecf637bac55c6c998c511cb
+SHA1: badc0f82d2cdc06d0a6902834b3bd54044148460
+SHA256: afe3091328edce619539dc9896fc3fd622910139549aa61dc3351f5418be7287
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
@@ -35,10 +35,10 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: xyz.evilgoldfish.lockglyphx
 Filename: ./debs/com.amrielsimone.lgpack_1.0_iphoneos-arm.deb
 Size: 627172
-MD5sum: 09f6bc48928287e0a036c41fe6a9c520
-SHA1: 3d4fe2b55f0e19031b5471d35190264cb0f786c9
-SHA256: 771f648882c2a9a32e90ada729110d8b103d6a66b6ffc250b6371edbd45f91cf
-Section: Beta
+MD5sum: d87f44f3245417c7b46c23567d89164d
+SHA1: 904c9281555246f564ef663c17f1fd1604a3a559
+SHA256: 4e169ef32481a86163451ee4238ca8b261e15d38818c06673e5a50f5eff8796b
+Section: Themes
 Description: Theme pack for LockGlyphX
 Author: OnGoodVxbes
 Name: LockGlyphX Theme Pack
@@ -50,9 +50,9 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.amrielsimone.yalu_1.0_iphoneos-arm.deb
 Size: 8658
-MD5sum: 9a4d40ef1e6e41a68c4031a76436eef9
-SHA1: 87c4ef87edfe66e1ffbbe41fc9de4b3638c75cbd
-SHA256: 9445591649535be3e62374b8c0946d2a23c3a5799a349ef8b37ad67e7e1c0574
+MD5sum: 90e6bbc4d4e9d58bbbdf13598e8ac370
+SHA1: 73dd0fd20eb118846b2cbb8f05c3a8a3b22da00f
+SHA256: 0a527e2bfd4a08e6827c7828de1c6d780378f9b11d935d184750a1287ea4f3ba
 Section: Tweaks
 Description: Shows expiration date in Yalu102 app when opened
 Author: Skyler Kansala
