@@ -1,9 +1,9 @@
 Package: com.amrielsimone.lgpack
-Name: LockGlyphX Theme Pack
+Name: LockGlyph Theme Pack
 Version: 1.0
 Section: Themes
 Depends: xyz.evilgoldfish.lockglyphx
 Architecture: iphoneos-arm
-Description: Theme pack for LockGlyphX
+Description: Themes for LockGlyph (All versions of IOS)
 Author: OnGoodVxbes
 Maintainer: Amriel Simone <amriel@amriel.com>
