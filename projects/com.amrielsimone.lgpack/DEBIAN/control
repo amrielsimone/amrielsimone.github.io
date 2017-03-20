@@ -1,6 +1,6 @@
 Package: com.amrielsimone.lgpack
 Name: LockGlyph Theme Pack
-Version: 1.0
+Version: 1.1
 Section: Themes
 Depends: xyz.evilgoldfish.lockglyphx
 Architecture: iphoneos-arm
