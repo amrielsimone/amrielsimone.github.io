@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aroma_1.0_iphoneos-arm.deb
-Size: 31328
-MD5sum: a3f4bd9a059344087efb1bf2a31f1681
-SHA1: 3105f3980295ac646c5ca2a91583e9cc2150df76
-SHA256: f9ba540402b63c2a41e15fedaeaa2a93a3c638f669e1cc1043044d3fa9021eda
+Size: 31298
+MD5sum: aa68556bd3230d7d6d830eff3d6c3361
+SHA1: 5d89b2da7e646a6d7f2e4b945328984ed79b5eb0
+SHA256: 3c0e3d60edf5a2592136090aecf53b0a513418afa2d0a1588f253aadcc56e250
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
@@ -19,29 +19,29 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aromatwo_1.0_iphoneos-arm.deb
-Size: 21490
-MD5sum: 1c34b53d2ecf637bac55c6c998c511cb
-SHA1: badc0f82d2cdc06d0a6902834b3bd54044148460
-SHA256: afe3091328edce619539dc9896fc3fd622910139549aa61dc3351f5418be7287
+Size: 21470
+MD5sum: ecb4f95951359484f1410490830984e3
+SHA1: 0b087e131a89f98eda5b9f2017913adbb57b11a9
+SHA256: 5e4d88494783bf1628c58534b57e6bbd3999180b755f60f132979ca7e8f9999f
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
 Name: Aroma 2
 
 Package: com.amrielsimone.lgpack
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: xyz.evilgoldfish.lockglyphx
-Filename: ./debs/com.amrielsimone.lgpack_1.0_iphoneos-arm.deb
-Size: 627172
-MD5sum: d87f44f3245417c7b46c23567d89164d
-SHA1: 904c9281555246f564ef663c17f1fd1604a3a559
-SHA256: 4e169ef32481a86163451ee4238ca8b261e15d38818c06673e5a50f5eff8796b
+Filename: ./debs/com.amrielsimone.lgpack_1.1_iphoneos-arm.deb
+Size: 586142
+MD5sum: 2ddeb4abbe8460e0eb9ef4639a6054a8
+SHA1: 59e9ec3ce6243af8b7d37087a8119b728ed6fd5d
+SHA256: 00c06f82cfbc25fe2e592fa4103e3cbb14d47b906684f665ad880b5fc3ad69e3
 Section: Themes
-Description: Theme pack for LockGlyphX
-Author: OnGoodVxbes
-Name: LockGlyphX Theme Pack
+Description: Themes for LockGlyph (All versions of IOS)
+Author: Amriel Simone <amriel@amriel.com>
+Name: LockGlyph Theme Pack
 
 Package: com.amrielsimone.yalu
 Version: 1.0
@@ -49,12 +49,12 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.amrielsimone.yalu_1.0_iphoneos-arm.deb
-Size: 8658
-MD5sum: 90e6bbc4d4e9d58bbbdf13598e8ac370
-SHA1: 73dd0fd20eb118846b2cbb8f05c3a8a3b22da00f
-SHA256: 0a527e2bfd4a08e6827c7828de1c6d780378f9b11d935d184750a1287ea4f3ba
+Size: 8640
+MD5sum: 1f29b1b2c82a27a1ca5544c5c7469071
+SHA1: d6b46ac8000c28f9cdccbc09c6403b25e0a17059
+SHA256: 1c0badd8019f69ed307398c5769c0460ae9dab3241c48638cfeda19bc267c7b4
 Section: Tweaks
 Description: Shows expiration date in Yalu102 app when opened
-Author: Skyler Kansala
+Author: Amriel Simone <amriel@amriel.com>
 Name: YaluTime
 
