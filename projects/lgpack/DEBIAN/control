@@ -5,5 +5,5 @@ Section: Themes
 Depends: xyz.evilgoldfish.lockglyphx
 Architecture: iphoneos-arm
 Description: Themes for LockGlyph (All versions of IOS)
-Author: OnGoodVxbes
+Author: Amriel Simone <amriel@amriel.com>
 Maintainer: Amriel Simone <amriel@amriel.com>

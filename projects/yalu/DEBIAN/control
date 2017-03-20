@@ -5,5 +5,5 @@ Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Shows expiration date in Yalu102 app when opened
-Author: Skyler Kansala
+Author: Amriel Simone <amriel@amriel.com>
 Maintainer: Amriel Simone <amriel@amriel.com>
