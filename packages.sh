@@ -1,5 +1,6 @@
 #!/bin/bash
-dpkg-deb -bZgzip projects/com.amrielsimone.aroma debs
-dpkg-deb -bZgzip projects/com.amrielsimone.aromatwo debs
-dpkg-deb -bZgzip projects/com.amrielsimone.lgpack debs
-dpkg-deb -bZgzip projects/com.amrielsimone.yalu debs
+dpkg-deb -bZgzip projects/aroma debs
+dpkg-deb -bZgzip projects/aromatwo debs
+dpkg-deb -bZgzip projects/lgpack debs
+dpkg-deb -bZgzip projects/yalu debs
+dpkg-deb -bZgzip projects/noduck debs
