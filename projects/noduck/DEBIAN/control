@@ -1,8 +1,9 @@
-Package: com.rishanan.NLM
-Name: NeverLowerMusic
-Version: 1.1
-Architecture: iphoneos-arm
-Description: Do not let any incoming notification interrupt/lower your music. Buy me a beer, PayPal: zilliasrepo@gmail.com
-Maintainer: Rishanan <rishanan1996@gmail.com>
-Author: Rishanan <rishanan1996@gmail.com>
+Package: com.amrielsimone.noduck
+Name: NoDuck
+Version: 1.0
 Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Disables audio ducking (Beta)
+Author: Amriel Simone <amriel@amriel.com>
+Maintainer: Amriel Simone <amriel@amriel.com>
