@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aroma_1.0_iphoneos-arm.deb
-Size: 31302
-MD5sum: 8cdca16588c85026030b1574122bc184
-SHA1: 095cb461337c2ff2f72e4613fce57cfb35147ffc
-SHA256: 72c3c9f1ac027d08b40853e7e315e01efe3a4cd822b308cec4f0afcc16b6a98e
+Size: 31310
+MD5sum: cde569f9f5113568574b1198da3828eb
+SHA1: f58e61d3b0dcc9ec47b86ee0bcd24ff8b8a6509f
+SHA256: 835fde9c77791ea6eb2d3c7997ac96826644616d5e1ded3ce8d79561906ac2c9
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
@@ -20,13 +20,28 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aroma2_1.0_iphoneos-arm.deb
 Size: 21468
-MD5sum: d64afa4cd7db04a795037b22920cc836
-SHA1: b118536727f9d19cdabfecb39a70a2c7313e41ec
-SHA256: 16ac63fac223748bdc9571b4db13ecfdcbcaf41d1271a5829ceefc3f2cbe7415
+MD5sum: e1c9480e88c43bbb4ae27ca2c08e2c6b
+SHA1: ffc6e6ed63ad13ea6d414574d31a7b21e79fa0bd
+SHA256: 90f03d50d8340fc3f3958cb7d63fd28f44f595a6fc7c2ea87e96bde7125b8dbf
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
 Name: Aroma 2
+
+Package: com.amrielsimone.glasklart
+Version: 5.43
+Architecture: iphoneos-arm
+Maintainer: Amriel Simone <amriel@amriel.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.amrielsimone.glasklart_5.43_iphoneos-arm.deb
+Size: 64828890
+MD5sum: b8cb0f0a809609e6a080b9e4ba15dd29
+SHA1: 98d89a56543a8323d16fb8a4a60b3071390c8597
+SHA256: c98ed86cedb99bcfc78207d4601ffa6397005497c56d93d13301dd8ffe72fea4
+Section: Themes
+Description: Out-of-the-way, transparent iPhone theme that lets you really showcase your wallpaper. Glasklart is swedish, it means "clear as glass".
+Author: Max Rudberg <max@maxthemes.com>
+Name: Glasklart HD
 
 Package: com.amrielsimone.lgpack
 Version: 1.1
@@ -35,9 +50,9 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: xyz.evilgoldfish.lockglyphx
 Filename: ./debs/com.amrielsimone.lgpack_1.1_iphoneos-arm.deb
 Size: 586130
-MD5sum: e390cdac829758afc3efd602c07e0306
-SHA1: a91a87ae7535314a88f2a22e8ee3a5c43be1007f
-SHA256: ba61a0f8630f27f783613798c7005f80445c817a6a7164e1fb2175d126eead74
+MD5sum: faba8eb1fc3f34c2804667edee3db750
+SHA1: c5ee488fb84bb0393c249ebf233a3db867d9384f
+SHA256: 0ae898a55ec700907fee395d791adcfc95540828e3226e5a9893596b8b59187b
 Section: Themes
 Description: Themes for LockGlyph (All versions of IOS)
 Author: Amriel Simone <amriel@amriel.com>
@@ -50,9 +65,9 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.amrielsimone.noduck_1.0_iphoneos-arm.deb
 Size: 1846
-MD5sum: e1a30d4c3e484d4f7a1d80864d66b5db
-SHA1: 18eb1e8b4d9214113fd95c6d593127c7de648ec7
-SHA256: 884899b623fe06b3b666f4470fd347ed2b2d9a5693c1b3ec823fe970265a4d88
+MD5sum: ea2957c2dcbde54efa8803690f0d0a4e
+SHA1: cc23c951a244aa0c6ba8556a3dcc3cf4e2d8ea87
+SHA256: eda02839e7c2c26729be0569a4e247b7ee7c99d35a6f6373913033423ad1d4bf
 Section: Tweaks
 Description: Disables audio ducking (Beta)
 Author: Amriel Simone <amriel@amriel.com>
@@ -65,9 +80,9 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.amrielsimone.yalu_1.0_iphoneos-arm.deb
 Size: 8642
-MD5sum: 8d76ea75e067485914095de5bcf92bab
-SHA1: 56fdd152ef7cabd3cba8e77a2214a84e58fe2c59
-SHA256: 9236dfc2a3e08f9ebc7cc71d4314707f35406a79bf0321d4356e041d7c99c720
+MD5sum: 10506ca5311e2c873bb41bc2225cad51
+SHA1: 4ad8257dcc0e04a0e633f3820ab33d9d3f73cd9b
+SHA256: c6bf17f8fceab8b93be841f0c2846718ac67eb45aabaf85088d6a998a555c228
 Section: Tweaks
 Description: Shows expiration date in Yalu102 app when opened
 Author: Amriel Simone <amriel@amriel.com>

@@ -1,0 +1,9 @@
+Package: com.amrielsimone.glasklart
+Name: Glasklart HD
+Version: 5.43
+Section: Themes
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Description: Out-of-the-way, transparent iPhone theme that lets you really showcase your wallpaper. Glasklart is swedish, it means "clear as glass".
+Author: Max Rudberg <max@maxthemes.com>
+Maintainer: Amriel Simone <amriel@amriel.com>
