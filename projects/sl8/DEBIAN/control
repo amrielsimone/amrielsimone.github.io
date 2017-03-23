@@ -1,9 +1,0 @@
-Package: com.amrielsimone.sl8
-Name: SL8
-Version: 1.0
-Section: Themes
-Depends: com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Description: A great Flat theme with a dark-ish color Palette, each icon has been crafted from scratch with no detail left out, i must admit though, i think i have out done my self with this one.
-Author: KrisJayOnline <krisjaymusic@gmail.com>
-Maintainer: Amriel Simone <amriel@amriel.com>

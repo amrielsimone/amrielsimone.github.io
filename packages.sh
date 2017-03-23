@@ -5,4 +5,3 @@ dpkg-deb -bZgzip projects/lgpack debs
 dpkg-deb -bZgzip projects/yalu debs
 dpkg-deb -bZgzip projects/noduck debs
 dpkg-deb -bZgzip projects/oneplus2 debs
-dpkg-deb -bZgzip projects/sl8 debs
