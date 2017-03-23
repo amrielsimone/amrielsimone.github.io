@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aroma_1.0_iphoneos-arm.deb
-Size: 31310
-MD5sum: cde569f9f5113568574b1198da3828eb
-SHA1: f58e61d3b0dcc9ec47b86ee0bcd24ff8b8a6509f
-SHA256: 835fde9c77791ea6eb2d3c7997ac96826644616d5e1ded3ce8d79561906ac2c9
+Size: 31306
+MD5sum: 6d5db2705a9fef7bc22c79556cf12db2
+SHA1: 9ffc943fbd14ec4da3c8ecbee4157ecb325a1010
+SHA256: c18f68c77045fc750ec6c064b902625f61e46df4fa6afaf7782f2013ef657d98
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
@@ -20,28 +20,13 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.amrielsimone.aroma2_1.0_iphoneos-arm.deb
 Size: 21468
-MD5sum: e1c9480e88c43bbb4ae27ca2c08e2c6b
-SHA1: ffc6e6ed63ad13ea6d414574d31a7b21e79fa0bd
-SHA256: 90f03d50d8340fc3f3958cb7d63fd28f44f595a6fc7c2ea87e96bde7125b8dbf
+MD5sum: 29faffc603aa3d6f7ff10698dac1e899
+SHA1: e5f3e34dd06148d4eef2a8c8c104358718fafb69
+SHA256: 69a68873e912403cfa4b3a3cf6c5b654caa43cd1864c36cf5e75e58b300b2edd
 Section: Themes
 Description: Clean and subtle theme
 Author: Amriel Simone <amriel@amriel.com>
 Name: Aroma 2
-
-Package: com.amrielsimone.glasklart
-Version: 5.43
-Architecture: iphoneos-arm
-Maintainer: Amriel Simone <amriel@amriel.com>
-Depends: com.anemonetheming.anemone
-Filename: ./debs/com.amrielsimone.glasklart_5.43_iphoneos-arm.deb
-Size: 64828890
-MD5sum: b8cb0f0a809609e6a080b9e4ba15dd29
-SHA1: 98d89a56543a8323d16fb8a4a60b3071390c8597
-SHA256: c98ed86cedb99bcfc78207d4601ffa6397005497c56d93d13301dd8ffe72fea4
-Section: Themes
-Description: Out-of-the-way, transparent iPhone theme that lets you really showcase your wallpaper. Glasklart is swedish, it means "clear as glass".
-Author: Max Rudberg <max@maxthemes.com>
-Name: Glasklart HD
 
 Package: com.amrielsimone.lgpack
 Version: 1.1
@@ -49,10 +34,10 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: xyz.evilgoldfish.lockglyphx
 Filename: ./debs/com.amrielsimone.lgpack_1.1_iphoneos-arm.deb
-Size: 586130
-MD5sum: faba8eb1fc3f34c2804667edee3db750
-SHA1: c5ee488fb84bb0393c249ebf233a3db867d9384f
-SHA256: 0ae898a55ec700907fee395d791adcfc95540828e3226e5a9893596b8b59187b
+Size: 586136
+MD5sum: e1e46e127191d9404b725be94b4fcdd9
+SHA1: 98055584ea5174197fbafb5c34af970dc6f90838
+SHA256: 86ce187a032c4f7c78d79ac1a70e34c83dc7ad11875e306bb61a02f2fac3bc8b
 Section: Themes
 Description: Themes for LockGlyph (All versions of IOS)
 Author: Amriel Simone <amriel@amriel.com>
@@ -65,13 +50,28 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.amrielsimone.noduck_1.0_iphoneos-arm.deb
 Size: 1846
-MD5sum: ea2957c2dcbde54efa8803690f0d0a4e
-SHA1: cc23c951a244aa0c6ba8556a3dcc3cf4e2d8ea87
-SHA256: eda02839e7c2c26729be0569a4e247b7ee7c99d35a6f6373913033423ad1d4bf
+MD5sum: 94eb25ea53355650870fe812644815a5
+SHA1: 470e4c3c83e8a39ad2f99084f376d6d9ce6a3a09
+SHA256: 4894ae07a8859e04282f118303aab2545b648e54f52479852ce4ab0766579069
 Section: Tweaks
 Description: Disables audio ducking (Beta)
 Author: Amriel Simone <amriel@amriel.com>
 Name: NoDuck
+
+Package: com.amrielsimone.oneplus2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Amriel Simone <amriel@amriel.com>
+Depends: xyz.evilgoldfish.lockglyphx
+Filename: ./debs/com.amrielsimone.oneplus2_1.0_iphoneos-arm.deb
+Size: 29270
+MD5sum: 976c5c991e1e9f7069810946cd358c8b
+SHA1: d1b29760d0419d3c6b6ae589e5866a6afaca2e0a
+SHA256: 440823795d28c284a33a91bf65d7c960bca7cda75252b8bae660e03db38dcc59
+Section: Themes
+Description: A modern look to the default theme
+Author: Amriel Simone <amriel@amriel.com>
+Name: OnePlus2 LockGlyph Theme
 
 Package: com.amrielsimone.yalu
 Version: 1.0
@@ -80,9 +80,9 @@ Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.amrielsimone.yalu_1.0_iphoneos-arm.deb
 Size: 8642
-MD5sum: 10506ca5311e2c873bb41bc2225cad51
-SHA1: 4ad8257dcc0e04a0e633f3820ab33d9d3f73cd9b
-SHA256: c6bf17f8fceab8b93be841f0c2846718ac67eb45aabaf85088d6a998a555c228
+MD5sum: 1bb9c303fa5c390d0e12e66fa612c942
+SHA1: e9892648e9e861669de4efc2d06a0377d8a01db1
+SHA256: 3767b74bea03832358acb88a90485e158b6a3c3f1ec0ff511f65a340a7f029c6
 Section: Tweaks
 Description: Shows expiration date in Yalu102 app when opened
 Author: Amriel Simone <amriel@amriel.com>
