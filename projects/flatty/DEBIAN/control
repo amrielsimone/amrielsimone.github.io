@@ -1,0 +1,9 @@
+Package: com.amrielsimone.flatty
+Name: Flatty
+Version: 1.0
+Section: Themes
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Description: Paid theme maid by Kris Jay
+Author: KrisJayOnline <krisjaymusic@gmail.com>
+Maintainer: Amriel Simone <amriel@amriel.com>
