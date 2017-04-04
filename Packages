@@ -59,15 +59,15 @@ Author: Amriel Simone <amriel@amriel.com>
 Name: LockGlyph Theme Pack
 
 Package: com.amrielsimone.noduck
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.amrielsimone.noduck_1.1_iphoneos-arm.deb
-Size: 1894
-MD5sum: f62a0e17a1aafe997b5bd82a566bfc5a
-SHA1: 7a6b563c01a5dbbe8350695a35f712cc854a1c42
-SHA256: da9229971de9d7f61cc56c7b9c277f902d98e4394f8f26025b4c445f6dffb760
+Filename: ./debs/com.amrielsimone.noduck_1.2_iphoneos-arm.deb
+Size: 1892
+MD5sum: 1fc1a3ce1f85446fdd03ab0c3121652b
+SHA1: 67df7c7684c793de709eedb21d43d52953672f12
+SHA256: ed887b13eaa58ad7d0c27d991c0e1ed76bec3830e820329d85d18891b3c2c467
 Section: Tweaks
 Description: Disables audio ducking (Beta)
 Author: Amriel Simone <amriel@amriel.com>

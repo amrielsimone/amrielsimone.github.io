@@ -1,6 +1,6 @@
 Package: com.amrielsimone.noduck
 Name: NoDuck
-Version: 1.1
+Version: 1.2
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
