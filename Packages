@@ -94,12 +94,12 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.eldwin.iwidgets
 Filename: ./debs/com.amrielsimone.phantasos_1.0_iphoneos-arm.deb
-Size: 2753608
-MD5sum: 0c186d34f09c6df9fc89a77afb27c9c1
-SHA1: 54f0195297be3f7f5a5ca3c3b049cf2bc4f4182c
-SHA256: 7663f934fe924a2203da898612b5e6da5b13c14fb3071d29c5dadf56fc9a90a9
+Size: 2753616
+MD5sum: 0a28b529c1645da1b0e52df525a21c3e
+SHA1: 01c52ff3490471b7eef224f971db4ff494c04c11
+SHA256: 168253503184020f7dc440136dfca7ac05f92ca82f01fa7e07e8c800091ee67a
 Section: Widgets
-Description: Colorful weather widget for your iDevice (repo.amriel.com/info/phantasos)
+Description: Colorful weather widget for your iDevice (repo.amriel.com/info.html)
 Author: Morpheus <morpheus021@gmail.com>
 Name: Phantasos
 
