@@ -1,0 +1,105 @@
+<html>
+    <head>
+        <script type="text/javascript" src="Resources/jquery.js"></script>
+	<script src="js/jquery.zweatherfeed.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+<body>
+
+<script type="text/javascript">
+    
+    function setTime() {
+	var today = new Date();
+	
+	//IS 24-HOUR TIME?
+	Hours = today.getHours();
+	if (mTime == false) {
+	    if (Hours > 12) {
+	    Hours = Hours-12;
+	    }
+	    if (Hours == 0) {
+	    Hours = 12;
+	    }
+	}
+	//Fix Minutes
+	var Minutes = today.getMinutes();
+	if (Minutes.toString().length == 1){
+	    Minutes = '0'+Minutes
+	}
+	
+	var Day = today.getDay();
+	var Month = today.getMonth();
+	
+	var Day_a = new Array();
+	Day_a[0] = "Sun";
+	Day_a[1] = "Mon";
+	Day_a[2] = "Tue";
+	Day_a[3] = "Wed";
+	Day_a[4] = "Thu";
+	Day_a[5] = "Fri";
+	Day_a[6] = "Sat";
+	
+	
+	
+	var Month_a = new Array();
+	Month_a[0] = "Jan";
+	Month_a[1] = "Feb";
+	Month_a[2] = "Mar";
+	Month_a[3] = "Apr";
+	Month_a[4] = "May";
+	Month_a[5] = "June";
+	Month_a[6] = "July";
+	Month_a[7] = "Aug";
+	Month_a[8] = "Sept";
+	Month_a[9] = "Oct";
+	Month_a[10] = "Nov";
+	Month_a[11] = "Dec";
+	
+	// EXECUTE
+	$('#Time').html(Hours+':'+Minutes);
+	$('#Date').html(Day_a[Day]+', '+Month_a[Month]+' '+today.getDate());
+    }
+$(document).ready(function () {
+    setTime();
+    
+    if (refresh < 1) {
+	update = 60000;
+    }
+    update = refresh*(60000);
+    if (locale == null){
+    locale = '12789396';
+    }
+    $('#asdf').weatherfeed([locale]);
+    setInterval(function(){
+	$('#asdf').weatherfeed([locale]);
+	},update);
+    
+    
+    setInterval(function(){
+	setTime();
+	},30000);
+    
+    $('#wrapper').click(function(){
+	$('#Forecast').fadeToggle(500);
+	$('#Today').fadeToggle(500);
+    })
+});
+</script>
+<div id="asdf">
+   <!-- DO NOT DELETE --> 
+</div>
+
+
+<div id="wrapper">
+    
+<div id="Today">
+<p id="City"></p>
+<p id="Condition"></p>
+<p id="Temp"></p>
+<p id="Image"></p>
+</div>
+
+
+</div>
+</body>
+</html>

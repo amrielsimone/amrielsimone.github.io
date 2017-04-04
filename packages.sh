@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-deb -bZgzip projects/phantasos debs
+dpkg-deb -bZgzip projects/simpl debs

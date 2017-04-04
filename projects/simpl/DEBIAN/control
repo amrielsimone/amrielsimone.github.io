@@ -1,0 +1,9 @@
+Package: com.amrielsimone.simpl
+Name: Simpl
+Version: 1.0
+Section: Widgets
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Description: Clean and transparent weather widget (repo.amriel.com/info.html)
+Author: Amriel Simone <amriel@amriel.com>
+Maintainer: Amriel Simone <amriel@amriel.com>
