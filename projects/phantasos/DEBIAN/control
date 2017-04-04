@@ -1,0 +1,9 @@
+Package: com.amrielsimone.phantasos
+Name: Phantasos
+Version: 1.0
+Section: Widgets
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Description: Colorful weather widget for your iDevice (woeidlookup.com)
+Author: Morpheus <morpheus021@gmail.com>
+Maintainer: Amriel Simone <amriel@amriel.com>

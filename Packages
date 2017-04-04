@@ -88,6 +88,21 @@ Description: A modern look to the default theme
 Author: Amriel Simone <amriel@amriel.com>
 Name: OnePlus2 LockGlyph Theme
 
+Package: com.amrielsimone.phantasos
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Amriel Simone <amriel@amriel.com>
+Depends: com.eldwin.iwidgets
+Filename: ./debs/com.amrielsimone.phantasos_1.0_iphoneos-arm.deb
+Size: 2753602
+MD5sum: c91aceecaecb7cfb387fe35fb1626405
+SHA1: 0a1c9115648ecf05199c47671b96a1228e2db368
+SHA256: 9f3a5d170f08aa942c0f461dec670fa7c3154f61983e2e2e6d5df75aa8df78f4
+Section: Widgets
+Description: Colorful weather widget for your iDevice (woeidlookup.com)
+Author: Morpheus <morpheus021@gmail.com>
+Name: Phantasos
+
 Package: com.amrielsimone.teardrop
 Version: 1.0
 Architecture: iphoneos-arm

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>default</key>
+		<string>12789396</string>
+		<key>label</key>
+		<string>Enter woeid</string>
+		<key>name</key>
+		<string>locale</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>15</string>
+		<key>label</key>
+		<string>Weather Refersh (minutes)</string>
+		<key>name</key>
+		<string>refresh</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<true/>
+		<key>label</key>
+		<string>24-Hr Time</string>
+		<key>name</key>
+		<string>mTime</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>C</string>
+		<key>label</key>
+		<string>Units</string>
+		<key>name</key>
+		<string>unit</string>
+		<key>options</key>
+		<dict>
+			<key>C</key>
+			<string>c</string>
+			<key>F</key>
+			<string>f</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+</array>
+</plist>

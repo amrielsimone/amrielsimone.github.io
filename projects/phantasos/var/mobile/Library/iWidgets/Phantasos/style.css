@@ -1,0 +1,79 @@
+p {
+    margin: 0px;
+    padding: 0px;
+    -webkit-user-select: none;
+}
+html {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#City,#Condition,#Temp {
+    display: inline;
+    position: absolute;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    color: white;
+    -webkit-user-select: none;
+}
+
+#wrapper {
+    background: url(Gradients/greenishblue.png) no-repeat fixed center;
+    min-height: 100px;
+    max- width: 100%;
+    overflow: hidden;
+    position: relative;
+    background-size: cover;
+     -webkit-user-select: none;
+}
+
+#City{
+    position: absolute;
+    top: 35px;
+    left: 15px;
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#Condition {
+    position: absolute;
+    bottom: 11px;
+    right: 65px;
+    font-size: 23px;
+    font-weight: bold;
+    opacity: 0.5;
+}
+
+#Temp {
+    position: absolute;
+    right: 10px;
+    top: 24px;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+#Image {
+    position: absolute;
+    top:0px;
+    right: 80px;
+    height: 100px;
+    width: 120px;
+}
+
+#Image img {
+    height: auto;
+    width: 100%;
+    margin-top: 5px;
+}
+
+@font-face {
+  font-family: 'Neris';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Neris-SemiBold'), url(Resources/Fonts/Neris-SemiBold.woff) format('woff');
+}
