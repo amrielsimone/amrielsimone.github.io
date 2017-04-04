@@ -16,7 +16,7 @@
 		<key>default</key>
 		<string>15</string>
 		<key>label</key>
-		<string>Weather Refersh (minutes)</string>
+		<string>Weather Refresh (minutes)</string>
 		<key>name</key>
 		<string>refresh</string>
 		<key>type</key>

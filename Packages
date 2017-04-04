@@ -94,10 +94,10 @@ Architecture: iphoneos-arm
 Maintainer: Amriel Simone <amriel@amriel.com>
 Depends: com.eldwin.iwidgets
 Filename: ./debs/com.amrielsimone.phantasos_1.0_iphoneos-arm.deb
-Size: 2753602
-MD5sum: c91aceecaecb7cfb387fe35fb1626405
-SHA1: 0a1c9115648ecf05199c47671b96a1228e2db368
-SHA256: 9f3a5d170f08aa942c0f461dec670fa7c3154f61983e2e2e6d5df75aa8df78f4
+Size: 2753604
+MD5sum: ef763c968ce5035ca70887277bbbd78c
+SHA1: ee61c940493c55c50fc71ab414deef418c55a4d8
+SHA256: a16cc89ec1493af1ea5f86b0940cad5806b8b062f8660488f74b1f13a58b6ef2
 Section: Widgets
 Description: Colorful weather widget for your iDevice (woeidlookup.com)
 Author: Morpheus <morpheus021@gmail.com>
