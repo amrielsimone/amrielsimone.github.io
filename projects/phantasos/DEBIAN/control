@@ -4,6 +4,6 @@ Version: 1.0
 Section: Widgets
 Depends: com.eldwin.iwidgets
 Architecture: iphoneos-arm
-Description: Colorful weather widget for your iDevice (woeidlookup.com)
+Description: Colorful weather widget for your iDevice (repo.amriel.com/info/phantasos)
 Author: Morpheus <morpheus021@gmail.com>
 Maintainer: Amriel Simone <amriel@amriel.com>
